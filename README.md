@@ -1,0 +1,2 @@
+# SudokuSolver
+ Brute-Force
